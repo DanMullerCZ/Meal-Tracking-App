@@ -7,4 +7,4 @@ Create an application for meal tracking. Meaning:
     POST /meals will take input and create new name, 
     DELETE /meal/:name will delete a meal. 
 
-So a typical REST API application
+Exercise for REST API endpoints
